@@ -1,3 +1,3 @@
 # contact
 
-donlim@outlook.kr
+donlim @ outlook.kr
